@@ -1,5 +1,5 @@
 {
-  "name": "custom-radio",
+  "name": "custom-checkbox",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
